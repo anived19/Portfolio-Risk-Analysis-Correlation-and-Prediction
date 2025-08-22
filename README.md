@@ -4,8 +4,13 @@ This project dives into statistical modeling to perform correlation and predicti
 Monte Carlo Portfolio Simulation & Risk Analysis
 This Python script provides a tool for analyzing the potential future performance and risk of a stock portfolio using a Monte Carlo simulation. It fetches real historical stock data, models the behavior of individual assets and their correlations, and simulates thousands of possible future scenarios to provide a probabilistic forecast.
 
+<img width="1280" height="692" alt="monte_carlo_simulation" src="https://github.com/user-attachments/assets/2b30edec-8d41-4057-802b-40374163513c" />
 
-Features
+
+
+Features:-
+
+
 Interactive Portfolio Input: Allows users to dynamically enter the number of assets, their stock tickers, and the number of shares for each.
 
 Live Financial Data: Fetches the last two years of historical stock data from Yahoo Finance using the yfinance library.
@@ -33,3 +38,6 @@ Expected Return: The average expected return on the portfolio.
 Value at Risk (VaR): The potential loss in value for a given confidence level (provides 5% and 1% VaR).
 
 Probability of Loss: The percentage of simulations that resulted in a final value lower than the initial value.
+
+<img width="343" height="455" alt="image" src="https://github.com/user-attachments/assets/f6003605-4fe9-4be7-a74c-9169fb2c7a6f" />
+
