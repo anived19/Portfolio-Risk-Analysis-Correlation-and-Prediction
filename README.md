@@ -1,8 +1,6 @@
 # Portfolio-Risk-Analysis-Correlation-and-Prediction
-This project dives into statistical modeling to perform correlation and prediction of stocks which can be dynamically input as well as the no. of shares for the stocks, i used geometric brownian motion to simulate the stock paths and monte carlo simulations for the outputs, used yfinance to procure stock data
-
-Monte Carlo Portfolio Simulation & Risk Analysis
-This Python script provides a tool for analyzing the potential future performance and risk of a stock portfolio using a Monte Carlo simulation. It fetches real historical stock data, models the behavior of individual assets and their correlations, and simulates thousands of possible future scenarios to provide a probabilistic forecast.
+This project dives into statistical modeling to perform correlation and prediction of stocks which can be dynamically input as well as the no. of shares for the stocks, i used geometric brownian motion to simulate the stock paths and monte carlo simulations for the outputs, used yfinance to procure stock data.
+Provides a tool for analyzing the potential future performance and risk of a stock portfolio. It fetches real historical stock data, models the behavior of individual assets and their correlations, and simulates thousands of possible future scenarios to provide a probabilistic forecast.
 
 <img width="1280" height="692" alt="monte_carlo_simulation" src="https://github.com/user-attachments/assets/2b30edec-8d41-4057-802b-40374163513c" />
 
